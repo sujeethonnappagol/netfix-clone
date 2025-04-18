@@ -111,7 +111,7 @@ body{
     width: 105%;
     object-fit: cover;
     border-radius: 16px;
-    transition: 1s;
+    transition: 0.5s;
 }
 .flex2{
     display: flex;
@@ -122,5 +122,9 @@ body{
 .divs{
     width: 250px;
     height: 250px;
-    border: 1px solid gray;
+    border: 1px solid white;
+    padding: 15px;
+    color: white;
+    border-radius: 15px;
+    background-color: rgb(72, 70, 70);
 }
